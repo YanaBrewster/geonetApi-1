@@ -1,0 +1,27 @@
+{
+  "name": "geonetApi-1",
+  "version": "1.0.0",
+  "description": "Clone this document via your terminal into the appropriate folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanaBrewster/geonetApi-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanaBrewster/geonetApi-1/issues"
+  },
+  "homepage": "https://github.com/YanaBrewster/geonetApi-1#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.0.6",
+    "bootstrap": "^4.4.1",
+    "grunt": "^1.0.4",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
